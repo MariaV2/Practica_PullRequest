@@ -1,9 +1,7 @@
 # API Best Practices Guidelines [Coding Practice] 
-<font size="-1">_Author: Frank Arana - Dec. 2018_</font>
+<font size="-1">_Author: Maria Granillo - Abr. 2025_</font> 
 
- ## Cambio de comentarios
 
-## Overview
 
 This document covers general security guidelines for API endpoints within Unity. These guidelines will cover general points like:
 - [Access control best practices](#access-controls)
