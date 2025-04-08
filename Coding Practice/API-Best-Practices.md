@@ -103,14 +103,4 @@ Even by following best security practices for APIs, it is possible to miss other
 
 No logging or monitoring missing security events
 
-Returning stack traces or other descriptive information of the service backend
-###### How to Fix?
-
-Log and monitor API activity. Detecting anomalies can assist in finding malicious activity that isn’t apparent anywhere else.
-
-Disable CORS (Cross-Origin Resource Sharing) if not needed, or scope it down as small as possible to prevent forged requests or data leakage.
-
-Return vague error responses. Put as little information as possible when returning an error to the user. Do not return any information about the server environment or debug information like stack traces.
-###### Risk Rating
-
-Ranging from Low to High depending on context.
+Returning st
