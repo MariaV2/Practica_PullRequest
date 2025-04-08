@@ -103,4 +103,9 @@ Even by following best security practices for APIs, it is possible to miss other
 
 No logging or monitoring missing security events
 
-Returning st
+Returning stack traces or other descriptive information of the service backend
+###### How to Fix?
+
+Log and monitor API activity. Detecting anomalies can assist in finding malicious activity that isn’t apparent anywhere else.
+
+Disab
