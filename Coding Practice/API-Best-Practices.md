@@ -116,3 +116,5 @@ Return vague error responses. Put as little information as possible when returni
 ###### Risk Rating
 
 Ranging from Low to High depending on context.
+
+###### Corregido el error donde se elimino parte del texto
