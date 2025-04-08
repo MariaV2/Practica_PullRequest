@@ -1,7 +1,7 @@
 # API Best Practices Guidelines [Coding Practice] 
-<font size="-1">_Author: Valeria Valencia - Abr. 2025_</font> 
+<font size="-1">_Author: Maria Granillo - Abr. 2025_</font> 
 
-## CAMBIO DE AUTORES
+## CAMBIO DE AUTORES A MAJITOO
 
  ## Overview
 
