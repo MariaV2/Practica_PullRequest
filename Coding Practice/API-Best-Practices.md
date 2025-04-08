@@ -1,9 +1,7 @@
 # API Best Practices Guidelines [Coding Practice] 
 <font size="-1">_Author: Maria Granillo - Abr. 2025_</font> 
 
-## CAMBIO DE AUTORES A MAJITOO
 
- ## Overview
 
 This document covers general security guidelines for API endpoints within Unity. These guidelines will cover general points like:
 - [Access control best practices](#access-controls)
@@ -12,9 +10,9 @@ This document covers general security guidelines for API endpoints within Unity.
 - [Replay attacks](#replay-attacks)
 - [General security practices relevant to, but not specific to APIs](#general)
 
-### Recommendations
-#### Access Controls
-###### Description
+### Recomendaciones
+#### Control de Acceso
+###### Descripcion
 
 API endpoints should follow the principle of least privilege. Services with protected information should serve to the smallest group possible.
 ###### Why We Care
@@ -116,3 +114,5 @@ Return vague error responses. Put as little information as possible when returni
 ###### Risk Rating
 
 Ranging from Low to High depending on context.
+
+###### Corregido el error donde se elimino parte del texto
